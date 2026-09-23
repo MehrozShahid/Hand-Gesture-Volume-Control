@@ -1,0 +1,9 @@
+# Python cache file
+__pycache__/
+*.py[cod]
+
+# IDE/editor file
+.vscode/
+
+# OS file
+Thumbs.db
