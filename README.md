@@ -6,9 +6,9 @@ The project uses **MediaPipe Hand Tracking** to detect hand landmarks and **Open
 
 ## Demo
 
-![Hand Gesture Volume Control Demo](output/volume_hand_control_demo.gif)
+![Hand Gesture Volume Control Demo](Output/volume_hand_control_demo.gif)
 
-**Full Demo Video:** [volume_hand_control_demo.mp4](output/volume_hand_control_demo.mp4)
+**Full Demo Video:** [volume_hand_control_demo.mp4](Output/volume_hand_control_demo.mp4)
 
 ## Features
 
